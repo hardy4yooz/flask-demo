@@ -14,9 +14,6 @@ steps:
     password: cxzcxz123
     repo: hardycao/repo1
     registry: registry.cn-beijing.aliyuncs.com
-    mirror: https://7bxty0zf.mirror.aliyuncs.com
+    # mirror: https://7bxty0zf.mirror.aliyuncs.com
     target: staging
-    tags:
-      - "1.0"
-  commands:
-    - echo "hello package"
+    tags: "1.0"
