@@ -12,7 +12,7 @@ steps:
   settings:
     username: caoxiaozh@163.com
     password: cxzcxz123
-    repo: hardycao/repo1
+    repo: registry.cn-beijing.aliyuncs.com/hardycao/repo1
     registry: registry.cn-beijing.aliyuncs.com
     # mirror: https://7bxty0zf.mirror.aliyuncs.com
     # target: staging
