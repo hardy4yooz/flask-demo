@@ -15,5 +15,7 @@ steps:
     repo: hardycao/repo1
     registry: registry.cn-beijing.aliyuncs.com
     mirror: https://7bxty0zf.mirror.aliyuncs.com
+  tags:
+    - "1.0"
   commands:
     - echo "hello package"
