@@ -1,2 +1,3 @@
-FROM tiangolo/uwsgi-nginx-flask:python3.6
+FROM alpine:3.9
+
 COPY ./app /app
