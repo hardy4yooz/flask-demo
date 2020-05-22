@@ -3,4 +3,3 @@ flask_auth
 flask_login
 flask_migrate
 flask_script
-pytest
